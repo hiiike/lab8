@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  test_lab8.1.2.cpp
+F:\labs\lab8.1.2\lab8.1.2\Source.cpp(9,8): warning C4018: '<': signed/unsigned mismatch
+     Creating library F:\labs\lab8.1.2\Debug\test_lab8.1.2.lib and object F:\labs\lab8.1.2\Debug\test_lab8.1.2.exp
+  test_lab8.1.2.vcxproj -> F:\labs\lab8.1.2\Debug\test_lab8.1.2.dll
